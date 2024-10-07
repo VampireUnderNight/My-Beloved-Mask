@@ -1,0 +1,84 @@
+:: StoryTitle
+My Beloved Mask
+
+
+:: StoryData
+{
+  "ifid": "C71FCE47-FBC1-4055-9E74-967780FBB1C3",
+  "format": "Harlowe",
+  "format-version": "3.3.9",
+  "start": "It's you my beloved mask",
+  "zoom": 1
+}
+
+
+:: Dissassociation {"position":"75,700","size":"100,100"}
+If you keep hurting you'll stop feeling it, or in this case the mind will find a way to detach from the pain and contain it until you're ready to deal with this.
+
+You lose all your weight and go through life light leaving little footprint.
+
+You stop feeling things, you stop letting yourself feel things. Everyone kept at a distance for you have to keep swimming. The mask is gone replaced with the survival instinct that tells you to not drown. Thats not life, but maybe in the future you can learn to feel again. Maybe you can try again. 
+
+[[Help steer the river to a better path->It's you my beloved mask]]
+
+
+:: It's you my beloved mask {"position":"600,200","size":"100,100"}
+We each wear a mask everyday
+
+Think about whenever you talk to someone, the mask you wear shifts with context and glitters with expectation, right? Does that connect at all? Is it just me or is it everyone?
+
+
+
+(text-rotate-z:-3)+(text-colour:blue)+(t8n-depart:"pulse")[[Words fall flat->Resolve]]
+
+
+:: Keep it {"position":"700,450","size":"100,100"}
+Dead end still working
+
+
+
+
+
+:: Let it sink {"position":"400,700","size":"100,100"}
+It all stings it all hurts, but like an equine beaten to death, you stop feeling it.
+
+You stop feelign much of anything...
+
+You let go, you sink, you detach
+
+Are my only options to wear a mask, be unloved
+
+or to be a walking corpse?
+
+Maybe I could be a non-walking variation, but I'm too scared of that.
+
+[[Dissassociation]]
+
+
+:: Resolve {"position":"600,325","size":"100,100"}
+I want to make a connection. I want people to know who I am. I can't keep living like this this isn't life. I am the just the //Ghost of an Unloved Effigy// 
+
+
+(text-style:"fidget")[(text-colour:(hsl:0,0.8039,0.5,0.65))[//But if they know you they'll hurt...//]]
+
+(text-colour:(hsl:0,0,0,0.65))[It happened before it will happen again. I exist to protect you.]
+
+
+
+1. (text-colour:blue)[[Tear it off]]
+2. (text-colour:red)[[Keep it]]
+
+
+
+
+
+:: Stop this {"position":"300,500","size":"100,100"}
+Dead end still worki
+
+
+:: Tear it off {"position":"500,450","size":"100,100"}
+(text-style:"shudder")[(text-colour:red)[IT HURTS]] (text-colour:(hsl:60,0.8039,0.5,0.85))[//distant laughter//] (text-style:"shudder")[(text-colour:red)[IT HURTS IT HURTS IT HURTS IT HURTS IT HURTS IT HURTS]] 
+
+(text-colour:red)[[Stop this]]
+
+(text-colour:grey)[[Let it sink]]
